@@ -1,4 +1,4 @@
-# programmers-codingtest-level1
+# Programmers-Codingtest-Level1
 
 문제풀이는 코드내에 주석에 적혀있습니다. 참조바랍니다.
 
