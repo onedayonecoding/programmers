@@ -11,11 +11,9 @@
       3-3. process가 남은 것이 1개라면(progresses 크기-1) job 리턴 (사실상 break)
 */
 
-#include <iostream>
 #include <string>
 #include <vector>
-#include<iterator>
-#include<algorithm>
+#include <cmath>
 #include<queue>
 
 using namespace std;
