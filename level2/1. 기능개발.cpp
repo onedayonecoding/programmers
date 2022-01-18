@@ -1,5 +1,4 @@
 /*
-   작성자 : 정택구
    파일 내용 : 프로그래머스 래밸 2 기능개발
    문제 : https://programmers.co.kr/learn/courses/30/lessons/42586
    문제 풀이 :
